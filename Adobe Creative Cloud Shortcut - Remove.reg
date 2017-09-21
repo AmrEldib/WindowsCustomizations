@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Source: https://superuser.com/a/1028537/96992
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{0E270DAA-1BE6-48F2-AC49-C2B0E45359E3}]
+
